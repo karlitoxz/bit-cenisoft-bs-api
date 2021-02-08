@@ -1,0 +1,3 @@
+{"_id":{"$oid":"60218fdcc42f2416a0cb3be3"},"category":[{"cat01":"Categoria 01","cat02":"Categoria 02"}],"cover":"Caratula 04 Borra Actualizar","name":"Nombre del libro 01","description":"Descripcion 01","unitValue":1111,"__v":0}
+{"_id":{"$oid":"60218fe5c42f2416a0cb3be4"},"category":[{"cat01":"Categoria 01","cat02":"Categoria 02"}],"cover":"Caratula 02","name":"Nombre del libro 01","description":"Descripcion 01","unitValue":1111,"__v":0}
+{"_id":{"$oid":"60218ff1c42f2416a0cb3be5"},"category":[{"cat01":"Categoria 01","cat02":"Categoria 02"}],"cover":"Caratula 03","name":"Nombre del libro 01","description":"Descripcion 01","unitValue":1111,"__v":0}
