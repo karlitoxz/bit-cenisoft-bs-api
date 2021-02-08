@@ -1,3 +1,8 @@
+Fork :
+
+Taller 02 - Desarrollo de Aplicaciones Web Modernas con NODEJS
+JUAN CARLOS ROMERO JAIMES - 1.030.521.87
+
 # BIT Cenisoft BookStore API
 
 API to manange BIT Cenisoft BookStore APP data.
@@ -26,3 +31,6 @@ npm run start
 ```
 
 This will be turned on on localhost:3000 by default
+
+
+

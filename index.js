@@ -8,6 +8,7 @@ require('./db')
 
 // Rutas
 const clientRoutes = require('./components/client/routes')
+const bookRoutes = require('./components/book/routes')
 
 const PORT = process.env.PORT || 3000
 
@@ -19,6 +20,7 @@ app.use(bodyParser.json())
 
 // Instalación de rutas en el router principal
 app.use('/clients', clientRoutes)
+app.use('/books', bookRoutes)
 
 app.listen(PORT, () => {
   console.log(`Server APP listening at localhost:${PORT}`)
