@@ -1,3 +1,4 @@
+//console.log(__dirname)
 const express = require('express')
 const app = express()
 const bodyParser = require('body-parser')
@@ -23,6 +24,9 @@ app.use(bodyParser.json())
 app.use('/clients', clientRoutes)
 app.use('/books', bookRoutes)
 app.use('/sales', salesRoutes)
+
+//Covers
+app.use("/covers", express.static('./covers'));
 
 app.listen(PORT, () => {
   console.log(`Server APP listening at localhost:${PORT}`)

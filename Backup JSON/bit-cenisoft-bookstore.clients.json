@@ -1,4 +1,0 @@
-{"_id":{"$oid":"60218b5f7efe601f6c0e01fb"},"name":"Juan 04","address":"Calle 99 a sur # 99 - 99","mobile":"3138133399","email":"juan@juanserver.com","password":"PassWord 02","__v":0}
-{"_id":{"$oid":"60218b88edca0315f0b4606f"},"name":"Juan 02","address":"Calle 99 a sur # 99 - 99","mobile":"3138133399","email":"juan@juanserver.com","password":"PassWord 02","__v":0}
-{"_id":{"$oid":"60218b94edca0315f0b46070"},"name":"Juan 01","address":"Calle 99 a sur # 99 - 99","mobile":"3138133399","email":"juan@juanserver.com","password":"PassWord 02","__v":0}
-{"_id":{"$oid":"60218b9aedca0315f0b46071"},"name":"Juan 03","address":"Calle 99 a sur # 99 - 99","mobile":"3138133399","email":"juan@juanserver.com","password":"PassWord 02","__v":0}
