@@ -7,7 +7,7 @@ module.exports = Book
 /*
 Send postman
 {
-	"cover": "Caratula 01",
+	"cover": [file],
 	"name": "Nombre del libro 01",
 	"description": "Descripcion 01",
 	"unitValue": 1111,
